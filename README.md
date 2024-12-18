@@ -1,4 +1,4 @@
- ** This Project is demonstatration of Dependency Injection service lifetimes **
+This Project is demonstatration of Dependency Injection service lifetimes
 
 ---
 In Dependency Injection (DI), **service lifetimes** define how the DI container manages the creation and lifecycle of instances for injected dependencies. Understanding service lifetimes helps in designing applications with optimal resource management and performance. Here are the common service lifetimes:
